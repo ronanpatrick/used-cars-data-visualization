@@ -1,7 +1,7 @@
 # Used Cars Data Visualization
 
-## Project Overview
-This project is a foundational exercise in data visualization using Python. It demonstrates how to load a real-world dataset and generate fundamental charts to visually summarize and understand the data using Pandas and Matplotlib.
+## Overview
+This activity is a foundational exercise in data visualization using Python. It demonstrates how to load a real-world dataset and generate fundamental charts to visually summarize and understand the data using Pandas and Matplotlib.
 
 ## Dataset
 * **Source File:** `used_cars.csv`

@@ -29,7 +29,7 @@ You can view and run this notebook instantly in your browser using Google Colab:
 *(Note: If running in Colab, you will need to manually upload the `used_cars.csv` file to your session storage, or update the `pd.read_csv()` path to point to the raw GitHub URL of the dataset).*
 
 ### Option 2: Run Locally
-1. Clone this repository: `git clone https://github.com/ronanpatrick/used-cars-eda.git`
+1. Clone this repository: `git clone https://github.com/ronanpatrick/used-cars-data-visualization.git`
 2. Ensure you have Jupyter Notebook or VS Code installed.
 3. Install the required libraries: `pip install pandas matplotlib`
 4. Open the `.ipynb` file and run the cells. The dataset is loaded via a local relative path.

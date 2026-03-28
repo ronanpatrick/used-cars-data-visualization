@@ -1,4 +1,4 @@
-# Used Cars Data Visualization Exercise 🚗
+# Used Cars Data Visualization
 
 ## Project Overview
 This project is a foundational exercise in data visualization using Python. It demonstrates how to load a real-world dataset and generate fundamental charts to visually summarize and understand the data using Pandas and Matplotlib.
@@ -24,7 +24,7 @@ The notebook includes scripts to generate the following standard chart types:
 
 ### Option 1: Run in Cloud (Recommended)
 You can view and run this notebook instantly in your browser using Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/used-cars-data-visualization/blob/main/Used_Cars_Data_Visualization.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/used-cars-data-visualization/blob/main/Used_Cars_Data_Visualization.ipynb)
 
 *(Note: If running in Colab, you will need to manually upload the `used_cars.csv` file to your session storage, or update the `pd.read_csv()` path to point to the raw GitHub URL of the dataset).*
 
